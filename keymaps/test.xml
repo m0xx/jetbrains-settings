@@ -1,0 +1,7 @@
+<keymap version="1" name="test" parent="Mac OS X 10.5+">
+  <action id="ActivateDockerToolWindow">
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
+  <action id="MinimizeCurrentWindow" />
+  <action id="TodoViewGroupByShowModules" />
+</keymap>
