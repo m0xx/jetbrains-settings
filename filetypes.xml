@@ -9,6 +9,7 @@
       <mapping pattern="infra" type="PLAIN_TEXT" />
       <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="restart_service" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".gilab-ci" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
