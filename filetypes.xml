@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="read_config" type="Bash" />
       <mapping ext="dev" type="Dockerfile" />
       <mapping ext="dockerfile" type="Dockerfile" />
       <mapping pattern="scenario" type="JavaScript" />
