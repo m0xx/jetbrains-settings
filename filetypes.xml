@@ -14,6 +14,7 @@
       <mapping pattern=".gilab-ci" type="PLAIN_TEXT" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
       <mapping pattern="d02_01" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
