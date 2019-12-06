@@ -1,7 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Ivi.Data'" />
-    <option name="defaultScopeName" value="Project 'Ivi.Data'" />
-    <option name="SEARCH_SCOPE" value="Project 'Ivi.Data'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>package-lock.json</mask>
   </component>
 </application>
