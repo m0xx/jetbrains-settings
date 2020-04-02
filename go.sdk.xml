@@ -3,6 +3,7 @@
     <sdk-path>
       <set>
         <option value="$USER_HOME$/sdk/go1.12.8" />
+        <option value="/usr/local/go" />
       </set>
     </sdk-path>
   </component>
